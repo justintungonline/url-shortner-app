@@ -182,7 +182,7 @@ export default Slug;
   `{slug, full_url}` pair or not, if there is, redirect user to `full_url`, otherwise redirect user to `/` where 404 error
   page will be shown
 - We are only making use of 3 config options for Firebase, `apiKey, authDomain, projectID` out of
-  full configuration options that we obatined from step 2.
+  full configuration options that we obatined from step 2. Enter your Firebase settings in the `firebaseConfig` section
 
 At this stage, you can `npm run dev` to test your app locally but for us we are sure that it will work :) so we don't test
 and let us directly host on vercel and your folder structure should look like this
@@ -205,8 +205,8 @@ url-shortner-app/
 
 ### 4. Host app on vercel
 
-Vercel made it extremely easy to host NextJS apps. After all, Vercel is behind NextJS. Before we can host on vercel, create new
-repository on github and push your codes to github.
+Vercel made it extremely easy to host NextJS apps. After all, Vercel is behind NextJS. Before we can host on vercel, create a new private
+repository on github to protect your Firebase settings and push your codes to github.
 
 Now we can:
 
