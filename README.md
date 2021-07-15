@@ -41,7 +41,9 @@ I wanted `okkar.ml` but it was taken, so I got myself `okkar.tk` instead.
 
 
 Choose 12 months when asked to select the duration, you can also 'release' the domain free domain back if you happen to
-buy yourself a domain. Okay we are done with this step
+buy yourself a domain. Okay we are done with this step.
+
+If there are issues choosing a domain or getting registered, try [this workaround](https://www.reddit.com/r/webhosting/comments/e085g8/all_freenom_domains_not_available/fhs7ge3?utm_source=share&utm_medium=web2x&context=3).
 
 ## 2. Set up Firebase
 
